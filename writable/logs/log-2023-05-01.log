@@ -1,0 +1,396 @@
+CRITICAL - 2023-05-01 02:50:30 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:50:32 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:50:56 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:50:58 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:51:48 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:51:50 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:52:27 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:53:00 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:53:01 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:53:03 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:53:32 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MessagesModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MessagesModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MessagesModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MessagesModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:54:25 --> Class "App\Models\MessagesModel" not found
+in APPPATH\Controllers\Messages.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:54:26 --> Class "App\Models\MessagesModel" not found
+in APPPATH\Controllers\Messages.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:54:36 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MaModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MaModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MaModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MaModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:54:37 --> Class "Codeigniter\Model" not found
+in APPPATH\Models\MaModel.php on line 5.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\ci\\app\\Models\\MaModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\MaModel')
+ 4 APPPATH\Controllers\Messages.php(11): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\MaModel')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:56:23 --> require_once(conts.php): Failed to open stream: No such file or directory
+in APPPATH\Views\messages.php on line 9.
+ 1 APPPATH\Views\messages.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(conts.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ci\\app\\Views\\messages.php', 9)
+ 2 APPPATH\Views\messages.php(9): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\messages.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('messages', [], true)
+ 6 APPPATH\Controllers\Messages.php(13): view('messages', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 02:56:24 --> require_once(conts.php): Failed to open stream: No such file or directory
+in APPPATH\Views\messages.php on line 9.
+ 1 APPPATH\Views\messages.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(conts.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\ci\\app\\Views\\messages.php', 9)
+ 2 APPPATH\Views\messages.php(9): require_once()
+ 3 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\messages.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('messages', [], true)
+ 6 APPPATH\Controllers\Messages.php(13): view('messages', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 03:03:46 --> Undefined variable $rows
+in APPPATH\Views\messages.php on line 35.
+ 1 APPPATH\Views\messages.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rows', 'C:\\xampp\\htdocs\\ci\\app\\Views\\messages.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\messages.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('messages', [], true)
+ 5 APPPATH\Controllers\Messages.php(13): view('messages', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Messages->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Messages))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:25:52 --> Undefined variable $messages
+in APPPATH\Views\message.php on line 35.
+ 1 APPPATH\Views\message.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\message.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('message', [], true)
+ 5 APPPATH\Controllers\Message.php(13): view('message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:26:30 --> Undefined variable $messages
+in APPPATH\Views\message.php on line 35.
+ 1 APPPATH\Views\message.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\message.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('message', [], true)
+ 5 APPPATH\Controllers\Message.php(13): view('message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:26:31 --> Undefined variable $messages
+in APPPATH\Views\message.php on line 35.
+ 1 APPPATH\Views\message.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\message.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('message', [], true)
+ 5 APPPATH\Controllers\Message.php(13): view('message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:26:32 --> Undefined variable $messages
+in APPPATH\Views\message.php on line 35.
+ 1 APPPATH\Views\message.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\message.php', 35)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\message.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('message', [], true)
+ 5 APPPATH\Controllers\Message.php(13): view('message', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:27:10 --> Invalid file: "<layouts>
+<include_folder>
+<msg></msg>.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('<layouts>
+<include_folder>
+<msg></msg>.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('<layouts>
+<include_folder>
+<msg></msg>.php', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('message', [], true)
+ 4 APPPATH\Controllers\Message.php(13): view('message', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:27:11 --> Invalid file: "<layouts>
+<include_folder>
+<msg></msg>.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('<layouts>
+<include_folder>
+<msg></msg>.php')
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('<layouts>
+<include_folder>
+<msg></msg>.php', [], true)
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('message', [], true)
+ 4 APPPATH\Controllers\Message.php(13): view('message', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Message->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Message))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:42:41 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(9): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:44:23 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(9): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:45:24 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(9): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:45:26 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(9): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:49:12 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:49:37 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:49:38 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:49:39 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:49:39 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:50:24 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:50:25 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:50:26 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-01 04:50:47 --> Undefined variable $messages
+in APPPATH\Views\contactme.php on line 39.
+ 1 APPPATH\Views\contactme.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $messages', 'C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php', 39)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\ci\\app\\Views\\contactme.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('contactme', [], true)
+ 5 APPPATH\Controllers\ContactMe.php(11): view('contactme')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ContactMe->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ContactMe))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
